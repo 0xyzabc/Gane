@@ -1,0 +1,22 @@
+{
+  "name": "@web-dev-simple/Gane",
+  "version": "1.0.0",
+  "description": "Is the string Gane?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xyzabc/Gane/Gane.git"
+  },
+  "keywords": [
+    "Gane"
+  ],
+  "author": "Web Dev Simple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xyzabc/Gane/Gane/issues"
+  },
+  "homepage": "https://github.com/0xyzabc/Gane/Gane#readme"
+}
